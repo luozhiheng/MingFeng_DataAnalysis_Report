@@ -1,6 +1,6 @@
 # 铭丰机房监控示例
 
- ![img]()
+ ![img](https://github.com/luozhiheng/MingFeng_DataAnalysis_Report/GIFTemp_3B88.gif)
 
 # MingFeng_DataAnalysis_Report
 ## [开发环境]：
